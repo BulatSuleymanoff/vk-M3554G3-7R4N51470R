@@ -5,3 +5,5 @@ Console application which allow you to send messages (in the biggest russian soc
 - fEnCe mEsSaGe
 - перевод на другой язык (translation to other language)
 - 1337 3l\lC0l)1l\lG.
+
+- You can use it for wall posts and chats, too.
